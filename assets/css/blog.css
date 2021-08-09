@@ -1,0 +1,246 @@
+
+.blog_section {
+  padding: 100px 0;
+  padding-bottom: 140px;
+}
+
+.und-blle h2 {
+  color: #ffb71c;
+  font-size: 20px;
+  font-family: 'Roboto', sans-serif;
+  font-weight: bold;
+  line-height: 30px;
+  text-align: left;
+  padding: 10px 0px 20px 0px;
+  margin: 0px 0px 0px 0px;
+}
+
+.inner-bl h1 {
+  color: #ffb71c;
+}
+
+.inner-bl h1 {
+  font-size: 20px;
+  font-family: 'Roboto', sans-serif;
+  font-weight: bold;
+}
+.blog-content p {
+  font-size: 16px;
+  font-family: 'Roboto', sans-serif;
+}
+
+div#shareIcons {
+  margin-top: 20px;
+}
+
+.und-blle p {
+  color: #474343;
+  font-size: 16px;
+  font-family: 'Roboto', sans-serif;
+  font-weight: 400;
+  text-align: left;
+  padding: 0px 0px 10px 0px;
+  margin: 0px 0px 0px 0px;
+}
+
+.undIm img {
+  width: 100%;
+}
+.und-blle a {
+  background-color: #ffb71c;
+  background: #ffb71c;
+  padding: 12px 24px;
+  margin: 10px 0px;
+  color: #fff;
+  font-size: 14px;
+  font-weight: 200;
+  text-decoration: none;
+  float: left;
+  text-transform: uppercase;
+  border: 0px;
+  border-radius: 4px;
+  display: block;
+}
+
+.bl-lefo {
+  width: 100%;
+  padding: 0 0px 20px 0px;
+  margin: 0px;
+  display: inline-block;
+}
+
+.und-blle {
+  display: inline-block;
+  padding: 0px;
+  margin: 0px 0px 20px 0px;
+  width: 100%;
+}
+
+.undIm {
+  display: block;
+  margin-bottom: 15px;
+}
+.bogRight .card {
+  position: relative;
+  display: -ms-flexbox;
+  display: flex;
+  -ms-flex-direction: column;
+  flex-direction: column;
+  min-width: 0;
+  word-wrap: break-word;
+  background-color: #fff;
+  background-clip: border-box;
+  border: 1px solid #ffb71c;
+  border-radius: 0.25rem;
+  height: auto !important;
+}
+.my-4 h5 {
+  color: #fff;
+  font-size: 16px;
+  font-weight: normal;
+  line-height: normal;
+  text-align: left;
+  padding: 10px;
+  margin: 0px 0px 0px 0px;
+  text-transform: uppercase;
+  font-weight: 500;
+  background: #ffb71c;
+
+}
+
+button.goBtn {
+  border: none;
+  outline: none;
+  height: 34px;
+  width: 40px;
+}
+
+.card-body {
+  -ms-flex: 1 1 auto;
+  flex: 1 1 auto;
+  padding: 1.25rem;
+}
+.input-group-addon,
+.input-group-btn {
+  width: 1%;
+  white-space: nowrap;
+  vertical-align: middle;
+}
+.input-group .form-control {
+  position: relative;
+  z-index: 2;
+  float: left;
+  width: 100%;
+  margin-bottom: 0;
+}
+
+.my-4 li a {
+  color: #222;
+  font-size: 14px;
+  font-weight:400;
+  text-decoration: none;
+}
+.my-4 li span {
+  display: inline-block;
+  margin-right: 8px;
+} 
+.my-4 li {
+  padding: 5px 0px;
+  margin-bottom: 5px;
+  border-bottom: 1px dashed #ccc;
+  text-align: left;
+}
+
+.my-4 ul {
+  display: block;
+  padding: 10px;
+  margin: 0px;
+  list-style: none;
+}
+.blog_section .card-body input {
+  position: relative;
+}
+.blog_section .card-body span button {
+  position: absolute;
+  top: 0;
+  right: 0;
+  z-index: 999;
+  background: #dee2e6;
+}
+.inner-bl .blgBk {
+  background: #ffb71c;
+  padding: 11px 24px;
+  margin: 20px 0px;
+  color: #fff;
+  font-size: 14px;
+  font-weight: 200;
+  text-decoration: none;
+  float: left;
+  text-transform: uppercase;
+  border: 0px;
+  cursor: pointer;
+  border-radius: 4px;
+  display: block;
+}
+
+.blog-content {
+  margin-top: 20px;
+}
+
+.socl a {
+  display: inline-block;
+  vertical-align: top;
+  margin-right: 5px;
+}
+
+.socl {
+  margin: 10px 0 30px;
+}
+
+
+
+.searchmobile {
+  display: none;
+}
+.searchdekstop {
+  display: block;
+}
+
+/*---------------media-query------------*/
+
+@media (max-width: 768px) {
+  .blog_section {
+    padding: 50px 0;
+    padding-bottom: 140px;
+  }
+
+  .new_footer_top {
+    padding: 60px 0px 0px;
+    position: relative;
+    overflow-x: hidden;
+  }
+}
+
+@media (max-width: 991px) {
+  .searchmobile {
+    display: block !important;
+    position: relative;
+    display: -ms-flexbox;
+    display: flex;
+    -ms-flex-direction: column;
+    flex-direction: column;
+    min-width: 0;
+    word-wrap: break-word;
+    background-color: #fff;
+    background-clip: border-box;
+    border: 1px solid #f59446;
+    border-radius: 0.25rem;
+    height: auto !important;
+  }
+  .searchdekstop {
+    display: none !important;
+  }
+}
+.blog_section .input-group-btn{
+  font-size: 18px !important;
+}

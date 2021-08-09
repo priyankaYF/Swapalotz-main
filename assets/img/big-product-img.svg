@@ -1,0 +1,9 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="870" height="489" viewBox="0 0 870 489">
+  <g id="Group_1716" data-name="Group 1716" transform="translate(-910 -608)">
+    <g id="Rectangle_178" data-name="Rectangle 178" transform="translate(910 608)" fill="#f0f0f0" stroke="#ebebeb" stroke-width="1">
+      <rect width="870" height="489" rx="5" stroke="none"/>
+      <rect x="0.5" y="0.5" width="869" height="488" rx="4.5" fill="none"/>
+    </g>
+    <path id="Icon_material-insert-photo" data-name="Icon material-insert-photo" d="M380.465,338.691V46.274A41.9,41.9,0,0,0,338.691,4.5H46.274A41.9,41.9,0,0,0,4.5,46.274V338.691a41.9,41.9,0,0,0,41.774,41.774H338.691A41.9,41.9,0,0,0,380.465,338.691ZM119.378,223.813l52.217,62.87,73.1-94.2L338.691,317.8H46.274Z" transform="translate(1157.518 660.018)" opacity="0.139"/>
+  </g>
+</svg>
